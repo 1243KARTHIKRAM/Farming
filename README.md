@@ -32,7 +32,9 @@ Android Studio	Firebase	Kotlin	External APIs	Android OS
 <br /><br />
 
 🤩 App Design Preview
-https://raw.githubusercontent.com/1243KARTHIKRAM/Farming/main/Agri%20India.png
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1243KARTHIKRAM/Farming/main/Agri%20India.png" width="600" />
+</p>
 <br /><br />
 
 ⭐ Support the Project
